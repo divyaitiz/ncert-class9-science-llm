@@ -1,0 +1,176 @@
+Example 7.1An object travels 16 m in 4 s
+and then another 16 m in 2 s. What is
+the average speed of the object?
+Solution:
+Total distance travelled by the object =
+16 m + 16 m = 32 m
+Total time taken = 4 s + 2 s = 6 s
+Total distancetravelled
+Average speed =
+Total timetaken
+32 m
+= = 5.33 m s–1
+6s
+Therefore, the average speed of the object
+is 5.33 m s–1.
+Example 7.2 The odometer of a car reads
+20 km at the start of a trip and
+km at the end of the trip. If the
+trip took 8 h, calculate the average
+speed of the car in km h–1 and m s–1.
+Solution:
+Distance covered by the car,
+s =  km – 20 km = 400 km
+Time elapsed, t = 8 h
+Average speed of the car is,
+v = s = 400 km
+av t 8 h
+= 50 km h–1
+km 10m 1h
+= 50 × ×
+h 1km 3600s
+= 13.9 m s–1
+The average speed of the car is
+50 km h–1 or 13.9 m s–1.
+Example 7.3 Usha swims in a 90 m long
+pool. She covers 180 m in one minute
+by swimming from one end to the other
+and back along the same straight path.
+Find the average speed and average
+velocity of Usha.
+Solution:
+Total distance covered by Usha in 1 min
+is 180 m.
+Displacement of Usha in 1 min = 0 m
+Total distancecovered
+Average speed =
+Totaltimetaken
+180m 180 m 1min
+= ×
+=
+1min 1min 60s
+= 3 m s-1
+Displacement
+Average velocity =
+Totaltimetaken
+0m
+=
+60 s
+= 0 m s–1
+The average speed of Usha is 3 m s–1
+and her average velocity is 0 m s–1.
+7.4 Example Starting from a stationary position, Rahul paddles his bicycle to
+attain a velocity of 6 m s–1 in 30 s. Then
+he applies brakes such that the velocity
+of the bicycle comes down to 4 m s-1 in
+the next 5 s. Calculate the acceleration
+of the bicycle in both the cases.
+Solution:
+In the first case:
+initial velocity, u = 0 ;
+final velocity, v = 6 m s–1 ;
+time, t = 30 s .
+From Eq. (8.3), we have
+v–u
+a =
+t
+Substituting the given values of u,v and
+t in the above equation, we get
+( )
+6m s–1 –0m s–1
+a =
+30 s
+= 0.2 m s–2
+In the second case:
+initial velocity, u = 6 m s–1;
+final velocity, v = 4 m s–1;
+time, t = 5 s.
+( )
+4m s–1 –6m s–1
+Then, a =
+5 s
+= –0.4 m s–2 .
+The acceleration of the bicycle in the
+first case is 0.2 m s–2 and in the second
+case, it is –0.4 m s–2.
+Example 7.5 A train starting from rest
+attains a velocity of 72 km h–1 in 5
+minutes. Assuming that the acceleration
+is uniform, find (i) the acceleration and
+(ii) the distance travelled by the train for
+attaining this velocity.
+Solution:
+We have been given
+u = 0 ; v = 72 km h–1 = 20 m s-1 and
+t = 5 minutes = 300 s.
+(i) From Eq. (7.5) we know that
+(v–u)
+a=
+t
+20 m s–1 – 0ms–1
+=
+300s
+= m s–2
+(ii) From Eq. (7.7) we have
+2 as = v2 – u2 = v2 – 0
+Thus,
+v2
+s =
+2a
+(20 ms–1)2
+=
+2×(1/15) ms–2
+= 30 m
+= 3 km
+The acceleration of the train is m s– 2
+and the distance travelled is 3 km.
+Example 7.6 A car accelerates uniformly
+–1 –1
+from 18 km h to 36 km h in 5 s.
+Calculate (i) the acceleration and (ii) the
+distance covered by the car in that time.
+Solution:
+We are given that
+u = 18 km h–1 = 5 m s–1
+v = 36 km h–1 = 10 m s–1 and
+t = 5 s .
+(i) From Eq. (7.5) we have
+v–u
+a=
+t
+10 m s-1 – 5 m s-1
+=
+5s
+= 1 m s–2
+(ii) From Eq. (7.6) we have
+s = u t + a t 2
+= 5 m s–1 × 5 s + × 1 m s–2 × (5 s)2
+= 25 m + 12.5 m
+= 37.5 m
+–2
+The acceleration of the car is 1 m s and
+the distance covered is 37.5 m.
+Example 7.7 The brakes applied to a car
+produce an acceleration of 6 m s-2 in the
+opposite direction to the motion. If the
+car takes 2 s to stop after the application
+of brakes, calculate the distance it
+travels during this time.
+Solution:
+We have been given
+a = – 6 m s–2 ; t = 2 s and v = 0 m s–1.
+From Eq. (7.5) we know that
+v = u + at
+0 = u + (– 6 m s–2) × 2 s
+or u = 12 m s–1 .
+From Eq. (7.6) we get
+s = u t + a t 2
+= (12 m s–1 ) × (2 s) + (–6 m s–2 ) (2 s)2
+= 24 m – 12 m
+= 12 m
+Thus, the car will move 12 m before it
+stops after the application of brakes. Can
+you now appreciate why drivers are
+cautioned to maintain some distance
+between vehicles while travelling on the
+road?
