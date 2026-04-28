@@ -5,12 +5,8 @@ Solution:
 Total distance travelled by the object =
 16 m + 16 m = 32 m
 Total time taken = 4 s + 2 s = 6 s
-Total distancetravelled
-Average speed =
-Total timetaken
-32 m
-= = 5.33 m s–1
-6s
+Average speed = Total distancetravelled / Total timetaken
+= 32 m / 6s = 5.33 m s-1
 Therefore, the average speed of the object
 is 5.33 m s–1.
 Example 7.2 The odometer of a car reads
@@ -23,12 +19,9 @@ Distance covered by the car,
 s = 2400 km – 2000 km = 400 km
 Time elapsed, t = 8 h
 Average speed of the car is,
-v = s = 400 km
-av t 8 h
+v_av = s / t = 400 km / 8 h
 = 50 km h–1
-km 1000m 1h
-= 50 × ×
-h 1km 3600s
+= 50 × (1000m / 1km) × (1h / 3600s)
 = 13.9 m s–1
 The average speed of the car is
 50 km h–1 or 13.9 m s–1.
@@ -42,20 +35,11 @@ Solution:
 Total distance covered by Usha in 1 min
 is 180 m.
 Displacement of Usha in 1 min = 0 m
-Total distancecovered
-Average speed =
-Totaltimetaken
-180m 180 m 1min
-= ×
-=
-1min 1min 60s
+Average speed = Total distancecovered / Totaltimetaken
+= (180 m / 1 min) × (1 min / 60 s)
 = 3 m s-1
-Displacement
-Average velocity =
-Totaltimetaken
-0m
-=
-60 s
+Average velocity = Displacement / Totaltimetaken
+= 0m / 60 s
 = 0 m s–1
 The average speed of Usha is 3 m s–1
 and her average velocity is 0 m s–1.
@@ -72,24 +56,16 @@ initial velocity, u = 0 ;
 final velocity, v = 6 m s–1 ;
 time, t = 30 s .
 From Eq. (8.3), we have
-v–u
-a =
-t
+v–u (v-u) / a =
 Substituting the given values of u,v and
 t in the above equation, we get
-( )
-6m s–1 –0m s–1
-a =
-30 s
+a = (6m s–1 –0m s–1) / 30 s
 = 0.2 m s–2
 In the second case:
 initial velocity, u = 6 m s–1;
 final velocity, v = 4 m s–1;
 time, t = 5 s.
-( )
-4m s–1 –6m s–1
-Then, a =
-5 s
+Then, a = (4m s–1 –6m s–1) / 5 s
 = –0.4 m s–2 .
 The acceleration of the bicycle in the
 first case is 0.2 m s–2 and in the second
@@ -105,29 +81,20 @@ We have been given
 u = 0 ; v = 72 km h–1 = 20 m s-1 and
 t = 5 minutes = 300 s.
 (i) From Eq. (7.5) we know that
-(v–u)
-a=
-t
-20 m s–1 – 0ms–1
-=
-300s
-= m s–2
+a= (v-u) / t
+= (20 m s–1 – 0ms–1) / 300s
+= (1/15) m s-2
 (ii) From Eq. (7.7) we have
 2 as = v2 – u2 = v2 – 0
 Thus,
-v2
-s =
-2a
-(20 ms–1)2
-=
-2×(1/15) ms–2
+s = v2 / 2a
+= (20 ms–1)2 / 2×(1/15) ms–2
 = 3000 m
 = 3 km
-The acceleration of the train is m s– 2
+The acceleration of the train is (1/15) m s-2
 and the distance travelled is 3 km.
 Example 7.6 A car accelerates uniformly
-–1 –1
-from 18 km h to 36 km h in 5 s.
+from 18 km h-1 to 36 km h-1 in 5 s.
 Calculate (i) the acceleration and (ii) the
 distance covered by the car in that time.
 Solution:
@@ -136,20 +103,15 @@ u = 18 km h–1 = 5 m s–1
 v = 36 km h–1 = 10 m s–1 and
 t = 5 s .
 (i) From Eq. (7.5) we have
-v–u
-a=
-t
-10 m s-1 – 5 m s-1
-=
-5s
+v–u (v-u) / a=
+= (10 m s-1 – 5 m s-1) / 5s
 = 1 m s–2
 (ii) From Eq. (7.6) we have
-s = u t + a t 2
-= 5 m s–1 × 5 s + × 1 m s–2 × (5 s)2
+s = u t + (1/2) a t 2
+= 5 m s–1 × 5 s + (1/2) × 1 m s–2 × (5 s)2
 = 25 m + 12.5 m
 = 37.5 m
-–2
-The acceleration of the car is 1 m s and
+The acceleration of the car is 1 m s-2 and
 the distance covered is 37.5 m.
 Example 7.7 The brakes applied to a car
 produce an acceleration of 6 m s-2 in the
@@ -165,8 +127,8 @@ v = u + at
 0 = u + (– 6 m s–2) × 2 s
 or u = 12 m s–1 .
 From Eq. (7.6) we get
-s = u t + a t 2
-= (12 m s–1 ) × (2 s) + (–6 m s–2 ) (2 s)2
+s = u t + (1/2) a t 2
+= (12 m s–1 ) × (2 s) + (1/2) (–6 m s–2 ) (2 s)2
 = 24 m – 12 m
 = 12 m
 Thus, the car will move 12 m before it
