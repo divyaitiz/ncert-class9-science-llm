@@ -14,19 +14,19 @@ Total timetaken
 Therefore, the average speed of the object
 is 5.33 m s–1.
 Example 7.2 The odometer of a car reads
-20 km at the start of a trip and
-km at the end of the trip. If the
+2000 km at the start of a trip and
+2400 km at the end of the trip. If the
 trip took 8 h, calculate the average
 speed of the car in km h–1 and m s–1.
 Solution:
 Distance covered by the car,
-s =  km – 20 km = 400 km
+s = 2400 km – 2000 km = 400 km
 Time elapsed, t = 8 h
 Average speed of the car is,
 v = s = 400 km
 av t 8 h
 = 50 km h–1
-km 10m 1h
+km 1000m 1h
 = 50 × ×
 h 1km 3600s
 = 13.9 m s–1
@@ -59,7 +59,8 @@ Totaltimetaken
 = 0 m s–1
 The average speed of Usha is 3 m s–1
 and her average velocity is 0 m s–1.
-7.4 Example Starting from a stationary position, Rahul paddles his bicycle to
+Example 7.4 Starting from a stationary
+position, Rahul paddles his bicycle to
 attain a velocity of 6 m s–1 in 30 s. Then
 he applies brakes such that the velocity
 of the bicycle comes down to 4 m s-1 in
@@ -120,7 +121,7 @@ s =
 (20 ms–1)2
 =
 2×(1/15) ms–2
-= 30 m
+= 3000 m
 = 3 km
 The acceleration of the train is m s– 2
 and the distance travelled is 3 km.
